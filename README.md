@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DukeStorm
-- 👀 I’m interested in Science, IT Security
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Science & Technology
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me...here!
 
